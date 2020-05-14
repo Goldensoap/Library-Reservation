@@ -1,0 +1,4 @@
+SHELL=/bin/bash
+PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/local/games:/usr/games
+0 0 * * * export DISPLAY=:0.0 && /home/pi/book.sh >> /home/pi/cron.log 2>&1
+0 12 * * * export DISPLAY=:0.0 && /home/pi/book.sh >> /home/pi/cron.log 2>&1

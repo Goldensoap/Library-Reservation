@@ -1,0 +1,6 @@
+/image_code/*
+!/image_code/README.md
+/other/*
+!/other/chromedriver.exe
+/.vscode
+__pycache__

@@ -1,0 +1,10 @@
+# 图书馆预约工具
+## 环境需求
+- chrome/chromium+driver
+- opencv3.4.3
+- python3.7.2
+  - tensorflow
+  - numpy
+  - requests
+  - beautifulsoup4
+  - selenium
